@@ -47,19 +47,19 @@ Run the application:
 ```bash
 java Ecommerce
 ```
-
 ### Usage
+
  - When prompted, choose to either login or register.
  - Follow the instructions to enter your name, address, and phone number.
  - Use the shopping menu to add, view, or remove items from your cart.
  - When ready, proceed to payment and enter your credit card details.
-
 ### Code Structure
+
  - Ecommerce.java: Main class containing all the logic for the e-commerce application.
  - Methods for user registration, login, shopping functionalities, and payment processing.
 ### Contributing
 
   Contributions are welcome! If you have suggestions for improvements or new features, feel free to create an issue or submit a pull request.
-  
 ### Acknowledgements
+
 - Inspiration from various e-commerce platforms.
